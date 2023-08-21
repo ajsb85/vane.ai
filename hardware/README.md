@@ -1,0 +1,3 @@
+### Hardware source files
+
+Altium Designer source files, PDFs, Gerbers...

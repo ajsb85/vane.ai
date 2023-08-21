@@ -1,0 +1,3 @@
+### Enclosure sources files
+
+SolidWorks, STEPs, PDFs, STLs...
